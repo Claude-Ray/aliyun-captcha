@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Claude-Ray/aliyun-captcha#readme",
   "dependencies": {
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.4",
     "uuid": "^3.3.2"
   }
 }
